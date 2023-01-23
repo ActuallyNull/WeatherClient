@@ -1,0 +1,2 @@
+requests==2.28.1
+geocoder==1.38.1
